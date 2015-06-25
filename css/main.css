@@ -1,0 +1,50 @@
+/***
+	
+	Project : Multiplayer chat and Q&A Server's css
+	Author : Minic Lin
+	Date : 2015.05.04
+	Title : 103 second term
+			the mid-term school assignment of Network programming 
+
+***/
+
+.gradetext {
+	font: bold 25px/40px Arial;
+}
+
+.content {
+	padding-top: 15%;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.contentatT {
+	padding-top: 3%;
+}
+
+.contentatL {
+	margin-top: 4.3% !important;
+	padding-top: 3%;
+	padding-left: 9% !important;
+	padding-right: 9% !important;
+	height: 400px;
+	background-color: #E8CCFF !important;
+}
+
+.contentatM {
+	margin-top: 4.3% !important;
+	padding-top: 3%;
+	height: 400px;
+	background-color: #EEFFBB !important;
+}
+
+.contentatR {
+	margin-top: 4.3% !important;
+	padding-top: 3%;
+	padding-left: 6% !important;
+	padding-right: 6% !important;
+	height: 400px;
+	background-color: #FFFFBB !important;
+}
+
+
